@@ -1,0 +1,512 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "a-better-start",
+      "enabled": false
+    },
+    {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": true
+    },
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    {
+      "name": "Additional-Turret",
+      "enabled": false
+    },
+    {
+      "name": "Advanced-Drills-Tweaked",
+      "enabled": false
+    },
+    {
+      "name": "advanced-logistics-system",
+      "enabled": false
+    },
+    {
+      "name": "Advanced_Machines",
+      "enabled": false
+    },
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes-hr-terrain",
+      "enabled": false
+    },
+    {
+      "name": "AlienWall",
+      "enabled": true
+    },
+    {
+      "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    {
+      "name": "ArcReactor",
+      "enabled": false
+    },
+    {
+      "name": "AsphaltRoads",
+      "enabled": false
+    },
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    {
+      "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    {
+      "name": "autofill",
+      "enabled": false
+    },
+    {
+      "name": "Auto_Deploy_Destroyers",
+      "enabled": true
+    },
+    {
+      "name": "Barbed-Wire",
+      "enabled": false
+    },
+    {
+      "name": "Better Beacons",
+      "enabled": false
+    },
+    {
+      "name": "Big_Brother",
+      "enabled": true
+    },
+    {
+      "name": "Bio_Industries",
+      "enabled": true
+    },
+    {
+      "name": "BlackMarket",
+      "enabled": false
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    {
+      "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    {
+      "name": "dark-matter-replicators",
+      "enabled": false
+    },
+    {
+      "name": "data-raw-prototypes",
+      "enabled": false
+    },
+    {
+      "name": "DayNightExtender",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockLoaders",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockStacking",
+      "enabled": true
+    },
+    {
+      "name": "detached-gun-sounds",
+      "enabled": false
+    },
+    {
+      "name": "Electric Furnaces",
+      "enabled": true
+    },
+    {
+      "name": "ElectricVehicles",
+      "enabled": false
+    },
+    {
+      "name": "EMP Biters",
+      "enabled": true
+    },
+    {
+      "name": "EndgameCombat",
+      "enabled": false
+    },
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "Exoskeleton Mark II",
+      "enabled": true
+    },
+    {
+      "name": "Expanded_Robot_Tech",
+      "enabled": true
+    },
+    {
+      "name": "ExportData",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    {
+      "name": "Fission and Fusion",
+      "enabled": false
+    },
+    {
+      "name": "Fixed_Tiberium",
+      "enabled": true
+    },
+    {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    {
+      "name": "folk-radar",
+      "enabled": false
+    },
+    {
+      "name": "Foreman",
+      "enabled": false
+    },
+    {
+      "name": "FossilRoots",
+      "enabled": true
+    },
+    {
+      "name": "Geothermal",
+      "enabled": true
+    },
+    {
+      "name": "ghost-copier",
+      "enabled": false
+    },
+    {
+      "name": "helmod",
+      "enabled": false
+    },
+    {
+      "name": "Honk",
+      "enabled": true
+    },
+    {
+      "name": "Laser Defense Rebalance",
+      "enabled": true
+    },
+    {
+      "name": "Laser_Beam_Turrets",
+      "enabled": true
+    },
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    {
+      "name": "logistics-reactor",
+      "enabled": false
+    },
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "Mining-Space-Industries",
+      "enabled": true
+    },
+    {
+      "name": "ModuleInserter",
+      "enabled": true
+    },
+    {
+      "name": "Nanobots",
+      "enabled": true
+    },
+    {
+      "name": "NaturalTreeExpansionReloaded",
+      "enabled": false
+    },
+    {
+      "name": "Natural_Evolution_Buildings",
+      "enabled": true
+    },
+    {
+      "name": "Natural_Evolution_Enemies",
+      "enabled": true
+    },
+    {
+      "name": "Natural_Evolution_Expansion",
+      "enabled": true
+    },
+    {
+      "name": "Noxys_Extra_Settings_Info",
+      "enabled": true
+    },
+    {
+      "name": "Noxys_Swimming",
+      "enabled": false
+    },
+    {
+      "name": "Noxys_Waterfill",
+      "enabled": false
+    },
+    {
+      "name": "Nuclear Fuel",
+      "enabled": false
+    },
+    {
+      "name": "NuclearRobots",
+      "enabled": true
+    },
+    {
+      "name": "off-grid-effects",
+      "enabled": false
+    },
+    {
+      "name": "Orbital Ion Cannon",
+      "enabled": true
+    },
+    {
+      "name": "PavementDriveAssist",
+      "enabled": true
+    },
+    {
+      "name": "PickerExtended",
+      "enabled": true
+    },
+    {
+      "name": "Portals",
+      "enabled": true
+    },
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    {
+      "name": "Pre-Fusion",
+      "enabled": true
+    },
+    {
+      "name": "ProgressiveRunning",
+      "enabled": true
+    },
+    {
+      "name": "Rampant",
+      "enabled": true
+    },
+    {
+      "name": "Rampant-Blockable-Projectiles",
+      "enabled": true
+    },
+    {
+      "name": "recursive-blueprints",
+      "enabled": true
+    },
+    {
+      "name": "Reinforced-Walls",
+      "enabled": false
+    },
+    {
+      "name": "RPGsystem",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "RTG",
+      "enabled": true
+    },
+    {
+      "name": "SimpleSilicon",
+      "enabled": true
+    },
+    {
+      "name": "Six Firepower",
+      "enabled": false
+    },
+    {
+      "name": "Six Stacks",
+      "enabled": true
+    },
+    {
+      "name": "Sixs-Tweaks",
+      "enabled": true
+    },
+    {
+      "name": "SmartDisplayRedux_Fixed",
+      "enabled": true
+    },
+    {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "Stormwalls",
+      "enabled": true
+    },
+    {
+      "name": "Swarm",
+      "enabled": true
+    },
+    {
+      "name": "TarawindBeaconsRE",
+      "enabled": false
+    },
+    {
+      "name": "Teleportation",
+      "enabled": true
+    },
+    {
+      "name": "Texugo_TA-miners",
+      "enabled": true
+    },
+    {
+      "name": "Texugo_windgenerator",
+      "enabled": true
+    },
+    {
+      "name": "TimeTools",
+      "enabled": false
+    },
+    {
+      "name": "TinyMarathonStart",
+      "enabled": false
+    },
+    {
+      "name": "TinyStart",
+      "enabled": false
+    },
+    {
+      "name": "Turret-Shields",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "Vehicle Wagon",
+      "enabled": true
+    },
+    {
+      "name": "VehicleGrid",
+      "enabled": true
+    },
+    {
+      "name": "vtk-deep-core-mining",
+      "enabled": true
+    },
+    {
+      "name": "walls-block-spitters",
+      "enabled": true
+    },
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    {
+      "name": "water-fix",
+      "enabled": false
+    },
+    {
+      "name": "WoodHarvester",
+      "enabled": true
+    },
+    {
+      "name": "YARM",
+      "enabled": true
+    },
+    {
+      "name": "ZAdventure",
+      "enabled": true
+    }
+  ]
+}

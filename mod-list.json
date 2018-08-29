@@ -157,6 +157,10 @@
       "enabled": true
     },
     {
+      "name": "CanalBuilder",
+      "enabled": true
+    },
+    {
       "name": "cargo-ships",
       "enabled": true
     },
@@ -273,7 +277,7 @@
       "enabled": true
     },
     {
-      "name": "Laser Defense Rebalance",
+      "name": "Hovercraft",
       "enabled": true
     },
     {
@@ -290,6 +294,10 @@
     },
     {
       "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "minimap-autohide",
       "enabled": true
     },
     {
@@ -430,7 +438,7 @@
     },
     {
       "name": "Stormwalls",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Swarm",

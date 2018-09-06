@@ -129,6 +129,10 @@
       "enabled": false
     },
     {
+      "name": "Blueprint_Footprint",
+      "enabled": true
+    },
+    {
       "name": "bobassembly",
       "enabled": true
     },

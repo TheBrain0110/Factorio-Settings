@@ -417,10 +417,6 @@
       "enabled": true
     },
     {
-      "name": "Six Firepower",
-      "enabled": false
-    },
-    {
       "name": "Six Stacks",
       "enabled": true
     },
@@ -470,10 +466,6 @@
     },
     {
       "name": "TinyMarathonStart",
-      "enabled": false
-    },
-    {
-      "name": "TinyStart",
       "enabled": false
     },
     {

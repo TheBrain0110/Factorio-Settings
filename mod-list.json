@@ -10,47 +10,47 @@
     },
     {
       "name": "aai-programmable-structures",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-programmable-vehicles",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-signals",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-chaingunner",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-flame-tank",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-flame-tumbler",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-hauler",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-laser-tank",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-miner",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-warden",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-zones",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Additional-Turret",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Auto_Deploy_Destroyers",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Barbed-Wire",
@@ -118,11 +118,11 @@
     },
     {
       "name": "Big_Brother",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Bio_Industries",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "BlackMarket",
@@ -130,11 +130,11 @@
     },
     {
       "name": "Blueprint_Footprint",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "bobassembly",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "bobenemies",
@@ -146,11 +146,11 @@
     },
     {
       "name": "boblogistics",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "bobmodules",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Bottleneck",
@@ -162,15 +162,15 @@
     },
     {
       "name": "CanalBuilder",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "cargo-ships",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Crafting_Speed_Research",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "dark-matter-replicators",
@@ -198,7 +198,7 @@
     },
     {
       "name": "Electric Furnaces",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ElectricVehicles",
@@ -206,7 +206,7 @@
     },
     {
       "name": "EMP Biters",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "EndgameCombat",
@@ -222,15 +222,15 @@
     },
     {
       "name": "Exoskeleton Mark II",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Expanded_Robot_Tech",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ExportData",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "FARL",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Fixed_Tiberium",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Flow Control",
@@ -250,7 +250,7 @@
     },
     {
       "name": "FNEI",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "folk-radar",
@@ -262,11 +262,11 @@
     },
     {
       "name": "FossilRoots",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Geothermal",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ghost-copier",
@@ -282,7 +282,7 @@
     },
     {
       "name": "Hovercraft",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Laser_Beam_Turrets",
@@ -306,7 +306,7 @@
     },
     {
       "name": "Mining-Space-Industries",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ModuleInserter",
@@ -322,7 +322,7 @@
     },
     {
       "name": "Natural_Evolution_Buildings",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Natural_Evolution_Enemies",
@@ -350,7 +350,7 @@
     },
     {
       "name": "NuclearRobots",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "off-grid-effects",
@@ -358,7 +358,7 @@
     },
     {
       "name": "Orbital Ion Cannon",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "PavementDriveAssist",
@@ -370,11 +370,11 @@
     },
     {
       "name": "Portals",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Power Armor MK3",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Pre-Fusion",
@@ -402,7 +402,7 @@
     },
     {
       "name": "RPGsystem",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "rso-mod",
@@ -410,11 +410,11 @@
     },
     {
       "name": "RTG",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "SimpleSilicon",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Six Stacks",
@@ -426,11 +426,11 @@
     },
     {
       "name": "SmartDisplayRedux_Fixed",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "SpaceMod",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Squeak Through",
@@ -450,15 +450,15 @@
     },
     {
       "name": "Teleportation",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Texugo_TA-miners",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Texugo_windgenerator",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "TimeTools",
@@ -470,7 +470,7 @@
     },
     {
       "name": "Turret-Shields",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "upgrade-planner",
@@ -486,7 +486,7 @@
     },
     {
       "name": "vtk-deep-core-mining",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "walls-block-spitters",
@@ -502,15 +502,15 @@
     },
     {
       "name": "WoodHarvester",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "YARM",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ZAdventure",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
